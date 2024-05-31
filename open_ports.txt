@@ -1,2 +1,0 @@
-[+] Port 53 is open.
-[+] Port 80 is open.
