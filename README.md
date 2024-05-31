@@ -18,15 +18,15 @@ This script allows you to scan open ports on a specified IP address. You can sca
 
 ## Options
 
-  -h, --help: Show the help message and exit.
+\t  -h, --help: Show the help message and exit.
   
-  -p PORT, --port PORT: Scan a specific port.
+\t  -p PORT, --port PORT: Scan a specific port.
   
-  -pr pmin pmax, --portrange pmin pmax: Accepts a range of ports to scan (<pmin pmax>).
+\t  -pr pmin pmax, --portrange pmin pmax: Accepts a range of ports to scan (<pmin pmax>).
   
-  -t THREADS, --threads THREADS: Specify the number of threads to be used (default=100).
+\t  -t THREADS, --threads THREADS: Specify the number of threads to be used (default=100).
   
-  -e, --echo: Print the open ports to the open_ports.txt file.
+\t  -e, --echo: Print the open ports to the open_ports.txt file.
 
 ## Examples
 
